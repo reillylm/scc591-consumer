@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/srcTestResources"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName" : "body.txt"
+    }
+}
